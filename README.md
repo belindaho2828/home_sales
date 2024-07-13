@@ -20,7 +20,10 @@ This analysis demonstrated effective data handling and performance optimization 
 
 # Results
 ## Uncached runtime
+<img width="288" alt="uncached_time" src="https://github.com/user-attachments/assets/442756ab-3626-4121-b0c5-916c2de5daeb">
 
 ## Cached runtime
+<img width="295" alt="cached_time" src="https://github.com/user-attachments/assets/f41800b0-bf30-4451-9a6a-b5dab396cbc4">
 
 ## Parquet format (partitioned by date_built)
+<img width="347" alt="par_time" src="https://github.com/user-attachments/assets/d7a47432-1461-4175-928e-d45a861b1458">
